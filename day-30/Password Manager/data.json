@@ -1,0 +1,30 @@
+{
+    "Gmail new acct": {
+        "email": "anadevmanuel@gmail.com",
+        "password": "cCuiKjXuwg82Whm"
+    },
+    "Yahoo new acct": {
+        "email": "anadevmanuel@yahoo.com",
+        "password": "ScXKYmaesKE4Rcx"
+    },
+    "PythonAnywhere": {
+        "email": "anhacorrea@hotmail.com-LadyDeveloper | ",
+        "password": "JvRZBEM7VUYQ2Xz"
+    },
+    "Twilio": {
+        "email": "anhacorrea@gmail.com",
+        "password": "hVrTK3mxVRmDVis"
+    },
+    "newsapi": {
+        "email": "anhacorrea@gmail.com",
+        "password": "BwtYSn5A3rxW4hM"
+    },
+    "TJ Max": {
+        "email": "anhacorrea@gmail.com",
+        "password": "MddvJAkkU3wNsPw"
+    },
+    "Nutritionix": {
+        "email": "anhacorrea@gmail.com",
+        "password": "BYtfkfxcdnAK2TJ"
+    }
+}
