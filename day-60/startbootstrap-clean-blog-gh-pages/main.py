@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import requests
 import smtplib
 
-MY_EMAIL = "anadevmanuel@gmail.com"
+MY_EMAIL = "anadevmavnuel@gmail.com"
 PASSWORD = "cCuiKjXuwg82Whm"
 
 
@@ -34,8 +34,6 @@ def contatc():
 @app.route('/post/<index>')
 def get_post(index):
     for post in data:
-        print(post['id'], index)
-        print(type(post['id']), type(index))
         if post['id'] == int(index):
             image_jpg = f"img/{post['id']}.jpg"
             return render_template('post.html', post=post, img=image_jpg)
